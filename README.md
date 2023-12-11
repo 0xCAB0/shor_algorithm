@@ -4,15 +4,18 @@
 
 1. Get an API token from IBM
 
-    Create an account and obtain a token from [IBM's Quantum Lab](https://quantum.ibm.com/)
+   Create an account and obtain a token from [IBM's Quantum Lab](https://quantum.ibm.com/)
 
-Set your API KEY and:
+2. Set your API KEY and:
 
-```bash
-cp .env.example .env
-```
+   ```bash
+   cp .env.example .env
+   ```
+
+3. Set your desired Python environment and run `shor.ipynb`
 
 ## Authors
 
 [Álvaro Cabo](https://github/0xCAB0)
+
 [Usema El-Hatifi](https://github.com/ouhat)
