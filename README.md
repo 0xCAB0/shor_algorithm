@@ -18,4 +18,4 @@
 
 [Álvaro Cabo](https://github/0xCAB0)
 
-[Usema El-Hatifi](https://github.com/ouhat)
+[Oussama El Hatifi](https://github.com/ouhat)
